@@ -1,6 +1,6 @@
 # Projeto de criação do Jogo da Velha
 
-### tecnologias utilizadas
+### tecnologias utilizadas:
 - Html
 - CSS
 - JavaScript
